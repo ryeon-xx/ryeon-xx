@@ -1,4 +1,4 @@
-💻 Java & Vue.js 공부중인 새싹 개발자 🌱
+## 💻 Java & Vue.js 공부중인 새싹 개발자 🌱
 
 
 ## 🛠 Tech Stack
