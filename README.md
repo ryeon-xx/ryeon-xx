@@ -7,4 +7,4 @@ Java 공부중인 개발자입니다.
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryeon-xx&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryeon-xx&show_icons=true&theme=react)
