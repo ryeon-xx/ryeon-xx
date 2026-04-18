@@ -1,6 +1,5 @@
-# 안녕하세요 👋
+💻 Java & Vue.js 공부중인 새싹 개발자 🌱
 
-Java 공부중인 개발자입니다.
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
