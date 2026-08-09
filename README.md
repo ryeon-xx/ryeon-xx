@@ -37,7 +37,7 @@
 - 실거래 데이터 75.6% 중복 발견 → `ROW_NUMBER() OVER(PARTITION BY ...)` 기반 중복 제거 로직 적용
 - 평가 점수 산정 기준의 법령·공공연구 근거 조사 및 문서화
 
-**Repo**: [작성 예정]
+**Repo**: https://github.com/orgs/PJT29-3team
 
 ---
 
